@@ -1,0 +1,6 @@
+Flask
+python-dotenv
+youtube-transcript-api
+requests
+pydub
+google-generativeai
